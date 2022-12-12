@@ -3,7 +3,7 @@ package com.driver;
 public class Main {
 
     public static class A {
-        public String math(){
+        public String meth(){
             return "Invoking method from class A";
         }
     }
